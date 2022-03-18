@@ -2,6 +2,8 @@
 A simple node module to download youtube videos and convert them to mp3s.
 A simple wrapper around the ytdl and ffmped library, which provides a nice and easy to use api to convert youtube links into mp3s. 
 
+Forked from classicCokie, to add a parameter to rename the saved mp3
+
 ## Attention
 Downloading videos or their respective audio from youtube, is in direct breach with their Policy. 
 Using this module on other videos than your own, may lead to youtube sueing you. 
